@@ -91,7 +91,7 @@ Para aprender Go podemos utilizar el Playground de Go, pero cuando empecemos a c
 - Descarga e Instala Go: https://go.dev/doc/install
 - 
 ### Instalar Git
-- Descarga e Instala Git: [https://go.dev/doc/install](https://git-scm.com/)
+- Descarga e Instala Git: [git](https://git-scm.com/)
  
 ### Editor e IDES para Go
 - Visual Studio Code: https://code.visualstudio.com/download
